@@ -1,0 +1,83 @@
+body{
+    background-image: url(images/bebek.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+header{
+    text-align: center;
+    color: rgb(232, 255, 183);
+    padding-top: 72px;
+    padding-bottom: 10px;
+    font-size: 20;
+}
+    nav {
+        border: 1 px hidden;
+        padding: 10px;
+        margin: auto;
+}
+nav ul {
+    list-style: none;
+    padding: 25px;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+main{
+    background-color: rgba(243, 255, 212, 0.692);
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 10px;
+    color: rgb(109, 93, 5);
+}
+.p{
+    text-indent: 50px;
+    margin-left: 15px; 
+    text-align: justify;
+    margin-right: 15px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+.awal{
+    background-image: url(images/berenang.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-right: 25px;
+    margin-left: 38px; 
+}
+.h{
+    text-align: right;
+    color: rgb(255, 234, 116);
+    margin-right: 130px;  
+}
+.img{
+    justify-content: space-between;
+    border-top-style: dotted;
+    margin: 28px auto;
+    width: 700px;
+}
+footer{
+    background-image: url(images/tenggelem.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 12px;
+    padding: 50px;
+
+}
